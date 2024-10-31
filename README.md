@@ -27,7 +27,8 @@ Script para instalar apache en la maquina de apache, ademas actualizamos los rep
 Ahora prepararemos la configuracion de las maquinas con sus debidos scripts de aprovisionamiento ejecutando en la ruta de la carpeta un vagrant init y accedemos al fichero vagrantfile y preparamos las 2 maquinas.
 
 
-![image](https://github.com/user-attachments/assets/3017ae89-54af-40a5-89f8-1111366485ce)
+![image](https://github.com/user-attachments/assets/94b521f7-c0a6-4740-9a3d-016d630ef797)
+
 
 
 Aqui en la maquina de sql he puesto una red publica para que pueda acceder a internet y una red privada, ademas del fichero de aprovisionamiento.sh
@@ -71,7 +72,8 @@ Ahora accedemos a la base de datos con el root y la contraseña
 
 Ahora creamos un usuario con la ip de la maquina de apache y damos todos los permisos al usuario
 
-![image](https://github.com/user-attachments/assets/b6412dcd-60f8-47eb-84d7-ef87a428055f)
+![image](https://github.com/user-attachments/assets/d470a18e-13ef-4bc6-977d-fbe0acdb6da9)
+
 
 
 Ahora vamos a clonar el repositorio de github para descargar la base de datos
