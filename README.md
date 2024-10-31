@@ -18,6 +18,8 @@ Script para instalar mysql server en la maquina de mysql, ademas actualizamos lo
 
 
 Script para instalar apache en la maquina de apache, ademas actualizamos los repositorios del sistema para instalar apache, ademas deberemos de instalar php y las librerias
+
+
 ![image](https://github.com/user-attachments/assets/8d8955a2-40e8-42aa-bced-14eb7c257e92)
 
 
