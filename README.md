@@ -29,6 +29,9 @@ Ahora prepararemos la configuracion de las maquinas con sus debidos scripts de a
 
 
 Aqui en la maquina de sql he puesto una red publica para que pueda acceder a internet y una red privada, ademas del fichero de aprovisionamiento.sh
+
+
+
 ![image](https://github.com/user-attachments/assets/6cdf2ad8-3188-4941-a768-747eedcd50ad)
 
 
